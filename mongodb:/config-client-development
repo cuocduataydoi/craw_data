@@ -1,0 +1,1 @@
+spring.url.mongodb.uri=mongodb://localhost:27019
